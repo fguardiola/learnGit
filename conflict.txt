@@ -1,0 +1,8 @@
+if(favChar=="")
+{
+ 	Console.Writeline("you have chosen myh favourite Character too");
+}
+else
+{
+ 	Console.Writeline("You are a bastard");
+}
