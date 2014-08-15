@@ -1,8 +1,8 @@
-if(favChar=="")
+if(favChar=="Homer Simpson")
 {
  	Console.Writeline("you have chosen myh favourite Character too");
 }
 else
 {
- 	Console.Writeline("You are a bastard");
+ 	Console.Writeline("Homer Simpson is better");
 }
