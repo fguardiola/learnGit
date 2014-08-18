@@ -4,5 +4,5 @@ if(favChar=="Peter Griffin")
 }
 else
 {
- 	Console.Writeline("Peter Griffin is better");
+ 	Console.Writeline("Peter Griffin is a little better");
 }
