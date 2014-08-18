@@ -10,3 +10,4 @@ else
 // New feature code
 
 Hello this is my new feature code blah blah blah
+The team can work on this new feature without mixing with the other branch
